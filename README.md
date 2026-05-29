@@ -1,6 +1,12 @@
 # Documentation
 
+## Download
+
 [Download the latest version here](https://github.com/HopureCCG/Chronosphere/releases/latest)
+
+## Contact me
+
+You can contact me on Chrono Discord or DM : Hopure#5218
 
 ## Collection
 
