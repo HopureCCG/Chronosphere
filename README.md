@@ -72,7 +72,7 @@ It displays:
 This is useful for quickly determining how many **Wildcards** you will need to craft the deck.
 
 
-## Invalid cards
+### Invalid cards
 
 <img width="337" height="274" alt="image" src="https://github.com/user-attachments/assets/d82d7b68-3ed7-420c-8277-bf317328e857" />
 
@@ -80,7 +80,7 @@ If a card is no longer allowed in the deck due to a change of Divers and, conseq
 
 **You cannot save or export an invalid deck**
 
-## Deck's Information
+### Deck's Information
 
 <img width="363" height="812" alt="image" src="https://github.com/user-attachments/assets/68253216-59bc-4cb9-af2f-5cc047be0660" />
 
