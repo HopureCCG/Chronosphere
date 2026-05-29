@@ -79,3 +79,10 @@ This is useful for quickly determining how many **Wildcards** you will need to c
 If a card is no longer allowed in the deck due to a change of Divers and, consequently, the list of allowed Syndicates, the card's name will be displayed in red to indicate that your deck is currently invalid because of that card.
 
 **You cannot save or export an invalid deck**
+
+## Deck's Information
+
+<img width="363" height="812" alt="image" src="https://github.com/user-attachments/assets/68253216-59bc-4cb9-af2f-5cc047be0660" />
+
+Here you can find useful data to help with your deckbuilding
+
