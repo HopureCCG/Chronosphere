@@ -56,6 +56,7 @@ If your collection contains enough copies of a card for the quantity used in you
 For more detailed information, hover your mouse over the card and look at the small indicators. The number of red indicators shows how many copies of that card are missing from your collection.
 
 In the example below, I am using 3 copies of this card in my deck. I own 1 copy in my collection, so I am missing 2 copies.
+
 <img width="583" height="332" alt="image" src="https://github.com/user-attachments/assets/47f15581-bbf5-4f77-95c6-a8a325ed42a4" />
 
 ### Missing Cards Summary
