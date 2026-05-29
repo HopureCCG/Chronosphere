@@ -1,5 +1,7 @@
 # Documentation
 
+[Download the latest version here](https://github.com/HopureCCG/Chronosphere/releases/latest)
+
 ## Collection
 
 <img width="1917" height="1027" alt="image" src="https://github.com/user-attachments/assets/ca1ac37b-b9e3-4117-9be6-d948507ea479" />
